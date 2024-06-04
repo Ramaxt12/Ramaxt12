@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<div align="center">
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/ramiro-toledo/">Ramiro!</a> 👋</h1>
+</div>
+<img src="[https://i.imgur.com/weNbhGZ.png](https://new.express.adobe.com/published/urn:aaid:sc:US:4fdcd851-2f32-44a2-b596-dc57b2a2ec7d?promoid=Y69SGM5H&mv=other)">
 <!--
 **Ramaxt12/Ramaxt12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
